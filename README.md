@@ -12,7 +12,7 @@
   Full-stack business website built using **Next.js**, **React**, **TypeScript**, **Express.js**, **PostgreSQL**, **Vercel**, and **Render**
 
 - [TeachTeam](https://github.com/Chris-Nab/TeachTeam)  
-  Web application helping match students and tutors. Built with React and Firebase.  
+  Web application helping match students and tutors. Built with **Next.js**, **React**, **TypeScript**, and **Express.js**
 
 - [Maze Solver](https://github.com/Chris-Nab/MazeGeneration)  
   C++ application that generates and solves mazes using **BFS** and **right-hand rule** algorithms. Focus on memory management, performance, and team collaboration.
