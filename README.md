@@ -14,7 +14,7 @@
 - [TeachTeam](https://github.com/Chris-Nab/TeachTeam)  
   Web application helping match students and tutors. Built with React and Firebase.  
 
-- [Maze Solver](https://github.com/rmit-computing-technologies/assignment-3-mazes-team54-cosc2804-sep24-drop-table-teams)  
+- [Maze Solver](https://github.com/Chris-Nab/MazeGeneration)  
   C++ application that generates and solves mazes using **BFS** and **right-hand rule** algorithms. Focus on memory management, performance, and team collaboration.
 
 🛠 **Tech Stack**
