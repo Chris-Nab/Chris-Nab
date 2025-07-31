@@ -22,7 +22,7 @@
 - Frameworks & Tools: `React`, `Next.js`, `Express.js`, `SQLite`, `PostgreSQL`, `Git`, `Vercel`, `Render`, `WordPress`
 
 📫 **Connect With Me**
-- Email: christian.nabati@gmail.com  
+- Email: nabatichristian@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/christian-nabati/)  
 
 ---
