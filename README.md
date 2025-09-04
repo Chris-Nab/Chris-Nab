@@ -8,7 +8,7 @@
 - Passionate about problem solving, user experience, and building real-world software  
 
 💻 **Projects**
-- [Ausam Curtains & Blinds – Live Site](https://www.ausamcurtains.com.au) | [Repo](https://github.com/Chris-Nab/AusamCurtains)  
+- [Ausam Curtains & Blinds – Live Site](https://www.ausamcurtains.com.au)  
   Full-stack business website built using **Next.js**, **React**, **TypeScript**, **Express.js**, **PostgreSQL**, **Vercel**, and **Render**
 
 - [TeachTeam](https://github.com/Chris-Nab/TeachTeam)  
