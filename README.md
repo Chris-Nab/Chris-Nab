@@ -13,13 +13,17 @@
 
 - [TeachTeam](https://github.com/Chris-Nab/TeachTeam)  
   Web application helping match students and tutors. Built with **Next.js**, **React**, **TypeScript**, and **Express.js**
-
+  
+- [EventHub](https://github.com/Chris-Nab/EventHub)  
+  Event management web app where users can discover and RSVP to events, organisers can create events, and admins can view reports and manage the platform.
+  Built with **Spring Boot**, **MySQL**, **Docker**, and **Thymeleaf**.
+  
 - [Maze Solver](https://github.com/Chris-Nab/MazeGeneration)  
   C++ application that generates and solves mazes using **BFS** and **right-hand rule** algorithms. Focus on memory management, performance, and team collaboration.
 
 🛠 **Tech Stack**
 - Languages: `Java`, `C++`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `SQL`
-- Frameworks & Tools: `React`, `Next.js`, `Express.js`, `SQLite`, `PostgreSQL`, `Git`, `Vercel`, `Render`, `WordPress`
+- Frameworks & Tools: `React`, `Next.js`, `Express.js`, `SQLite`, `PostgreSQL`, `Git`, `Vercel`, `Render`, `WordPress`, `GitHub Workflows (CI/CD)`, `Docker`
 
 📫 **Connect With Me**
 - Email: nabatichristian@gmail.com  
