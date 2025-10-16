@@ -23,7 +23,7 @@
 
 🛠 **Tech Stack**
 - Languages: `Java`, `C++`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `SQL`
-- Frameworks & Tools: `React`, `Next.js`, `Express.js`, `SQLite`, `PostgreSQL`, `Git`, `Vercel`, `Render`, `WordPress`, `GitHub Workflows (CI/CD)`, `Docker`
+- Frameworks & Tools: `React`, `Next.js`, `Express.js`, `SQLite`, `PostgreSQL`, `Git`, `Vercel`, `Render`, `WordPress`, `GitHub Workflows (CI/CD)`, `Docker`, `Spring-Boot`
 
 📫 **Connect With Me**
 - Email: nabatichristian@gmail.com  
